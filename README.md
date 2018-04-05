@@ -9,5 +9,7 @@ This project requires Python v2.* to be installed
 $ git clone https://github.com/dnsnguy08/marvel-movies.git
 ```
 ## How to Run
-1. enter **marvel-movies** directory
-2. `python entertainment_center.py`
+1. Open python shell
+2. Change directory to the **marvel-movies** folder
+3. Run **entertainment_center.py**
+4. Grab some popcorn and enjoy!

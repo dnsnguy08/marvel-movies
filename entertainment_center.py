@@ -11,12 +11,12 @@ avengers_endgame = media.Movie(
 
 spiderman_far_from_home = media.Movie(
                     "Spider-Man: Far From Home",
-                    "https://upload.wikimedia.org/wikipedia/en/1/1c/Spider-Man_Far_From_Home_poster.jpeg",
+                    "https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",
                     "https://www.youtube.com/watch?v=DYYtuKyMtY8")
 
 captain_marvel = media.Movie(
                     "Captain Marvel",
-                    "https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_poster.jpg",
+                    "https://upload.wikimedia.org/wikipedia/en/4/4e/Captain_Marvel_%28film%29_poster.jpg",
                     "https://www.youtube.com/watch?v=Z1BCujX3pw8")                   
 
 black_panther = media.Movie(
